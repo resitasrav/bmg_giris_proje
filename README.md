@@ -23,7 +23,7 @@ Futbol dünyasında ülke puanı, takımların uluslararası arenadaki başarıl
 ## 🌐 Canlı Önizleme
 
 Bu projeyi canlı olarak görüntülemek için GitHub Pages bağlantısını ziyaret edebilirsiniz:
-👉 [Web Sitesine Git](https://resitasrav.github.io)
+👉 [Web Sitesine Git](https://resitasrav.github.io)(kapalı)
 
 ## 🛠️ Nasıl Çalıştırılır?
 
